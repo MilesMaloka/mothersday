@@ -1,4 +1,4 @@
-const images = ['/images/pic1(2).jpg', '/images/pic2(1).jpg','/images/pic5.jpg','/images/pic6.jpg'];
+const images = ['/images/pic1(2).jpg', '/images/pic2(1).jpg','/images/pic5.jpg'];
         let currentIndex = 0;
 
         setInterval(() => {
